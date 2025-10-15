@@ -120,6 +120,8 @@ STATICFILES_DIRS = [
     os.path.join('static')
 ]
 
+MEDIA_URL = '/media/'
+
 
 
 # Default primary key field type
